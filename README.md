@@ -21,6 +21,18 @@
   Aplicação para uma transportadora fictícia, o FastFeet.
 </p>
 <br>
+ Quer ver uma demonstração? Acesse: <a href="https://webfastfeet.netlify.app">webfastfeet.netlify.app</a>
+<br>
+<br>
+<br>
+Você pode usar esses dados:
+<br>
+<br>
+<strong>Usuário:</strong> admin@fastfeet.com
+<br>
+<strong>Senha:</strong> adminfastfeet
+<br>
+<br>
 <br>
 <br>
 
