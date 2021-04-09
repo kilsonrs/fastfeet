@@ -21,7 +21,7 @@
   Aplicação para uma transportadora fictícia, o FastFeet.
 </p>
 <br>
- Quer ver uma demonstração? Acesse: <a href="https://webfastfeet.netlify.app" target="_blank">webfastfeet.netlify.app</a>
+ Quer ver uma demonstração? Acesse: <a href="https://webfastfeet.netlify.app" target="_blank" rel="noopener noreferrer">webfastfeet.netlify.app</a>
 <br>
 <br>
 <br>
