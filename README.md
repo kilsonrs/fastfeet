@@ -6,6 +6,12 @@
 <br />
 
 <p align="center">
+  <img  src=".github/Capa.png" alt="FastFeet" width="600">
+
+</p>
+<br>
+
+<p align="center">
   <img  src=".github/login_page.png" alt="FastFeet" width="600">
 
 </p>
