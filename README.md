@@ -9,12 +9,7 @@
   <img  src=".github/Capa.png" alt="FastFeet" width="600">
 
 </p>
-<br>
 
-<p align="center">
-  <img  src=".github/login_page.png" alt="FastFeet" width="600">
-
-</p>
 <br>
 <p align="center">
   <img  src=".github/dashboard.png" alt="FastFeet" width="600">
@@ -27,7 +22,7 @@
   Aplicação para uma transportadora fictícia, o FastFeet.
 </p>
 <br>
- Quer ver uma demonstração? Acesse: <a href="https://webfastfeet.netlify.app" target="_blank" rel="noopener noreferrer">webfastfeet.netlify.app</a>
+ Acesse uma demonstração da versão web do aplicativo: <a href="https://webfastfeet.netlify.app" target="_blank" rel="noopener noreferrer">webfastfeet.netlify.app</a>
 <br>
 <br>
 <br>
@@ -45,9 +40,9 @@ Você pode usar esses dados:
 <h3>Repositórios</h3>
 <br>
 
-- [Api backend](https://github.com/kilsonrs/fastfeet-api)
-- [Web client](https://github.com/kilsonrs/fastfeet-web)
-- [App client](https://github.com/kilsonrs/fastfeet-app)
+- [Backend](https://github.com/kilsonrs/fastfeet-api)
+- [Frontend](https://github.com/kilsonrs/fastfeet-web)
+- [Mobile](https://github.com/kilsonrs/fastfeet-app)
 
 <br>
 <br>
