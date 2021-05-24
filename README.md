@@ -6,8 +6,12 @@
 <br />
 
 <p align="center">
-  <img  src=".github/Capa.png" alt="FastFeet" width="600">
+  <img  src=".github/Capa.png" alt="FastFeet" height="400" width="600">
 
+</p>
+<br />
+<p align="center">
+  <img src=".github/app.gif" height="400" />
 </p>
 
 <br>
