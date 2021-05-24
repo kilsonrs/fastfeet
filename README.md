@@ -1,30 +1,29 @@
 <h1 align="center">
-  <a name="logo" href="https://webfastfeet.netlify.app"><img src=".github/logo.png" alt="MK Finder" width="222"></a>
+  <a name="logo" href="https://webfastfeet.netlify.app">
+    <img src=".github/logo.png" alt="MK Finder" width="222">
+  </a>
   <br>
 </h1>
-
 <br />
-
 <p align="center">
-  <img  src=".github/Capa.png" alt="FastFeet" height="400" width="600">
-
+  <a name="logo" href="https://github.com/kilsonrs/fastfeet-app">
+    <img  src=".github/Capa.png" alt="FastFeet" height="400" width="600">
+  </a>
 </p>
 <br />
 <p align="center">
-  <img src=".github/app.gif" height="400" />
+  <img src=".github/app.gif" alt="FastFeet" height="400" />
 </p>
-
 <br>
 <p align="center">
-  <img  src=".github/dashboard.png" alt="FastFeet" width="600">
+ <a href="https://webfastfeet.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img  src=".github/dashboard.png" alt="FastFeet" width="600">
+  </a>
 </p>
 <br>
 <h2>FastFeet</h2>
 <br>
-
-<p>
-  Aplicação para uma transportadora fictícia, o FastFeet.
-</p>
+<p>Aplicação para uma transportadora fictícia, o FastFeet.</p>
 <br>
  Acesse uma demonstração da versão web do aplicativo: <a href="https://webfastfeet.netlify.app" target="_blank" rel="noopener noreferrer">webfastfeet.netlify.app</a>
 <br>
